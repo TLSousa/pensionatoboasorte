@@ -1,0 +1,936 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pensionatoboasorte.com.br" resolutions="1x" timestamp="1623417042621">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="338847091" ref="index"/>
+    <file name="nomq_index.css" crc="140752780" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>index:tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>index:tablet>index:index"/>
+    <file name="form_check.php" crc="4108222811" ref="phone>index"/>
+    <file name="form_throttle.php" crc="503802655" ref="phone>index"/>
+    <file name="form_process.php" crc="260214869" ref="phone>index"/>
+    <file name="form-u20523.php" crc="3933425861" ref="phone>index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:tablet>index:index"/>
+    <file name="form-u23374.php" crc="425053592" ref="tablet>index"/>
+    <file name="form-u1829.php" crc="196879920" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pensionato-boa-sorte-favicon.ico" crc="3853005698" ref="phone>index"/>
+    <file name="4a2a66d8-7a37-4f3e-ac61-452b4a77380a.jpg" crc="4115748963" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c70134c9-b3d0-4b79-aea0-89b0d01ab340.jpg" crc="3790418253" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="86e6f5e5-e45e-45d6-a7eb-c39be17cdd07.jpg" crc="3961478845" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9865120d-e335-40e0-acd1-1c640298d5a8.jpg" crc="3857750564" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16909-4.png" crc="4160996808" ref="phone>index"/>
+    <file name="u16930-4.png" crc="61096536" ref="phone>index"/>
+    <file name="u16933-4.png" crc="4224050103" ref="phone>index"/>
+    <file name="u16936-4.png" crc="4260649683" ref="phone>index"/>
+    <file name="u16948-4.png" crc="3896406629" ref="phone>index"/>
+    <file name="u16951-4.png" crc="4132474461" ref="phone>index"/>
+    <file name="pensionato-boa-sorte448x261.png" crc="106765021" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="pensionato-boa-sorte-conforto448x261.png" crc="3959136094" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="estrutura-completa448x261.png" crc="341227634" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="u17131-5.png" crc="3948719384" ref="phone>index"/>
+    <file name="u17134-4.png" crc="328298912" ref="phone>index"/>
+    <file name="imagem sobre.png" crc="4293711290" seo="true" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u17296-4.png" crc="56012069" ref="phone>index"/>
+    <file name="u17352-5.png" crc="226401325" ref="phone>index"/>
+    <file name="3ba08459-75b8-46e6-b606-8128807a4056-u17450-fr.jpg" crc="21723094" ref="phone>index:tablet>index"/>
+    <file name="0f7b2a4d-14b5-42a6-8822-b6f667735d85-u17520-fr.jpg" crc="137063239" ref="phone>index:tablet>index"/>
+    <file name="u17548-4.png" crc="4042460569" ref="phone>index"/>
+    <file name="5bb3381a-c1a6-4522-8de7-53dc5f6b8a9b-u17428-fr.jpg" crc="4218833041" ref="phone>index:tablet>index"/>
+    <file name="u17625-4.png" crc="92483632" ref="phone>index"/>
+    <file name="icons8-condicionador-de-ar-52.png" crc="3939689392" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u17711-4.png" crc="3877351829" ref="phone>index"/>
+    <file name="u17733-7.png" crc="428907119" ref="phone>index"/>
+    <file name="u17815-4.png" crc="266553606" ref="phone>index"/>
+    <file name="u17821-4.png" crc="207183850" ref="phone>index"/>
+    <file name="icons8-cozinha-52.png" crc="3988058459" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u17891-4.png" crc="3940843174" ref="phone>index"/>
+    <file name="u17897-4.png" crc="4129649016" ref="phone>index"/>
+    <file name="icons8-wi-fi-52.png" crc="444217766" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u17967-4.png" crc="4076036731" ref="phone>index"/>
+    <file name="u17973-4.png" crc="4261159148" ref="phone>index"/>
+    <file name="icons8-manutenção-52.png" crc="71917003" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u18055-4.png" crc="4180627035" ref="phone>index"/>
+    <file name="u18061-4.png" crc="468723354" ref="phone>index"/>
+    <file name="icons8-câmera-de-parede-52.png" crc="4153130523" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u18165-4.png" crc="4189202517" ref="phone>index"/>
+    <file name="icons8-vassoura-filled-100.png" crc="4122621434" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u18311-4.png" crc="4199225250" ref="phone>index"/>
+    <file name="u18159-4.png" crc="133349265" ref="phone>index"/>
+    <file name="icons8-tv-retrô-52.png" crc="3826112464" seo="true" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u18317-4.png" crc="3914889866" ref="phone>index"/>
+    <file name="u18491-4.png" crc="3830388565" ref="phone>index"/>
+    <file name="whatsapp image 2021-05-10 at 191542 (1)444x267.jpg" crc="228573601" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (5)434x328.jpg" crc="449050565" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (9)527x267.jpg" crc="3998176098" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542434x278.jpg" crc="408186519" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191719472x267.jpg" crc="391631644" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 192026 (3)-crop-u26803.jpg" crc="429747356" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 192026-crop-u26834.jpg" crc="4065565294" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u20037-4.png" crc="42423681" ref="phone>index"/>
+    <file name="u20147-4.png" crc="128419692" ref="phone>index"/>
+    <file name="pensionatoboasorte-shopping120x121.jpg" crc="3969953604" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-terminais120x121.jpg" crc="4114726444" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-hospitais120x120.jpg" crc="24532722" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-restaurantes120x121.jpg" crc="3787169716" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-escolas120x121.jpg" crc="79217306" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-supermercados120x120.jpg" crc="498664343" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u20475-4.png" crc="3777641793" ref="phone>index"/>
+    <file name="u20487-11.png" crc="407583045" ref="phone>index"/>
+    <file name="u20517-4.png" crc="460975122" ref="phone>index"/>
+    <file name="logo branca.png" crc="3798375264" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u20737-4.png" crc="3892835269" ref="phone>index"/>
+    <file name="icon instagram.png" crc="4118907229" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-facebook.png" crc="4102447787" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u20901-4.png" crc="24540603" ref="phone>index"/>
+    <file name="icon email.png" crc="4093505260" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16909-42.png" crc="153736450" ref="phone>index"/>
+    <file name="u16930-42.png" crc="66063450" ref="phone>index"/>
+    <file name="u16933-42.png" crc="362998328" ref="phone>index"/>
+    <file name="u16936-42.png" crc="4207452278" ref="phone>index"/>
+    <file name="u16948-42.png" crc="3768392435" ref="phone>index"/>
+    <file name="u16951-42.png" crc="4292837763" ref="phone>index"/>
+    <file name="pensionato-boa-sorte388x226.png" crc="4156741903" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionato-boa-sorte-conforto388x226.png" crc="156244287" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="estrutura-completa388x226.png" crc="144259397" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u17131-52.png" crc="3940591020" ref="phone>index"/>
+    <file name="u17134-42.png" crc="380696094" ref="phone>index"/>
+    <file name="u17296-42.png" crc="356753112" ref="phone>index"/>
+    <file name="u17352-52.png" crc="307626999" ref="phone>index"/>
+    <file name="u17548-42.png" crc="315881422" ref="phone>index"/>
+    <file name="u17625-42.png" crc="3896866356" ref="phone>index"/>
+    <file name="u17711-42.png" crc="3801874392" ref="phone>index"/>
+    <file name="u17733-72.png" crc="4002517560" ref="phone>index"/>
+    <file name="u17815-42.png" crc="454188744" ref="phone>index"/>
+    <file name="u17821-42.png" crc="332164655" ref="phone>index"/>
+    <file name="u17891-42.png" crc="4074652325" ref="phone>index"/>
+    <file name="u17897-42.png" crc="90639662" ref="phone>index"/>
+    <file name="u17967-42.png" crc="4152327721" ref="phone>index"/>
+    <file name="u17973-42.png" crc="61162924" ref="phone>index"/>
+    <file name="u18055-42.png" crc="304612570" ref="phone>index"/>
+    <file name="u18061-42.png" crc="43746793" ref="phone>index"/>
+    <file name="u18165-42.png" crc="4189077986" ref="phone>index"/>
+    <file name="u18311-42.png" crc="3885708508" ref="phone>index"/>
+    <file name="u18159-42.png" crc="4080723239" ref="phone>index"/>
+    <file name="u18317-42.png" crc="3900078458" ref="phone>index"/>
+    <file name="u18491-42.png" crc="4061908337" ref="phone>index"/>
+    <file name="whatsapp image 2021-05-10 at 191542 (1)361x218.jpg" crc="4151249308" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (5)-crop-u26679.jpg" crc="3847059388" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (9)407x206.jpg" crc="3873882693" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542361x232.jpg" crc="434355195" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191719365x206.jpg" crc="3850732970" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 192026 (3)-crop-u268032.jpg" crc="500402524" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 192026-crop-u268342.jpg" crc="358030526" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u20037-42.png" crc="382574074" ref="phone>index"/>
+    <file name="u20147-42.png" crc="3989690520" ref="phone>index"/>
+    <file name="pensionatoboasorte-shopping105x105.jpg" crc="4200078957" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-terminais104x104.jpg" crc="239316518" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-hospitais105x105.jpg" crc="309760411" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-restaurantes106x106.jpg" crc="81228832" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-escolas108x108.jpg" crc="260023566" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-supermercados107x107.jpg" crc="367346328" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u20475-42.png" crc="209571515" ref="phone>index"/>
+    <file name="u20487-112.png" crc="407583045" ref="phone>index"/>
+    <file name="u20517-42.png" crc="4239638316" ref="phone>index"/>
+    <file name="u20737-42.png" crc="3776643188" ref="phone>index"/>
+    <file name="u20901-42.png" crc="328688946" ref="phone>index"/>
+    <file name="u23416-4.png" crc="333571952" ref="tablet>index"/>
+    <file name="u23417-4.png" crc="4186800430" ref="tablet>index"/>
+    <file name="u23418-4.png" crc="377861597" ref="tablet>index"/>
+    <file name="u23419-4.png" crc="357336663" ref="tablet>index"/>
+    <file name="u23420-4.png" crc="3778267853" ref="tablet>index"/>
+    <file name="u23421-4.png" crc="60227563" ref="tablet>index"/>
+    <file name="pensionato-boa-sorte-crop-u23161.png" crc="3985681324" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionato-boa-sorte-conforto-crop-u23163.png" crc="204830149" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="estrutura-completa-crop-u23165.png" crc="445808172" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u23185-5.png" crc="433141738" ref="tablet>index"/>
+    <file name="u23186-4.png" crc="12284456" ref="tablet>index"/>
+    <file name="u23422-4.png" crc="3878445657" ref="tablet>index"/>
+    <file name="u23423-5.png" crc="212493185" ref="tablet>index"/>
+    <file name="3ba08459-75b8-46e6-b606-8128807a4056-u23424-fr.jpg" crc="4058160933" ref="tablet>index"/>
+    <file name="0f7b2a4d-14b5-42a6-8822-b6f667735d85-u23425-fr.jpg" crc="14220549" ref="tablet>index"/>
+    <file name="u23426-4.png" crc="4125608907" ref="tablet>index"/>
+    <file name="5bb3381a-c1a6-4522-8de7-53dc5f6b8a9b.jpg" crc="530518746" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u23190-4.png" crc="4025867014" ref="tablet>index"/>
+    <file name="u23198-4.png" crc="266553606" ref="tablet>index"/>
+    <file name="u23199-4.png" crc="207183850" ref="tablet>index"/>
+    <file name="u23195-4.png" crc="3877351829" ref="tablet>index"/>
+    <file name="u23196-7.png" crc="428907119" ref="tablet>index"/>
+    <file name="u23211-4.png" crc="4261159148" ref="tablet>index"/>
+    <file name="u23216-4.png" crc="4076036731" ref="tablet>index"/>
+    <file name="u23204-4.png" crc="3940843174" ref="tablet>index"/>
+    <file name="u23205-4.png" crc="4129649016" ref="tablet>index"/>
+    <file name="u23223-4.png" crc="4189202517" ref="tablet>index"/>
+    <file name="u23231-4.png" crc="4199225250" ref="tablet>index"/>
+    <file name="u23210-4.png" crc="253466314" ref="tablet>index"/>
+    <file name="u23217-4.png" crc="468723354" ref="tablet>index"/>
+    <file name="u23222-4.png" crc="133349265" ref="tablet>index"/>
+    <file name="u23232-4.png" crc="3914889866" ref="tablet>index"/>
+    <file name="u23245-4.png" crc="393547250" ref="tablet>index"/>
+    <file name="whatsapp image 2021-05-10 at 191542 (1).jpg" crc="294680987" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (5)-crop-u26964.jpg" crc="3931862472" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (9).jpg" crc="3893250732" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542.jpg" crc="409580036" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191719.jpg" crc="3948379873" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 192026 (3)-crop-u27112.jpg" crc="4225986652" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 192026-crop-u27149.jpg" crc="256219784" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (6).jpg" crc="73859809" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u23353-4.png" crc="67464997" ref="tablet>index"/>
+    <file name="u23358-4.png" crc="328254724" ref="tablet>index"/>
+    <file name="pensionatoboasorte-shopping154x154.jpg" crc="4169712713" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-terminais154x154.jpg" crc="339167044" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-hospitais154x154.jpg" crc="185375985" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-restaurantes154x154.jpg" crc="4186489536" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-escolas154x154.jpg" crc="3937615309" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-supermercados154x154.jpg" crc="163314570" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u23371-4.png" crc="407273209" ref="tablet>index"/>
+    <file name="u23372-11.png" crc="3812392585" ref="tablet>index"/>
+    <file name="u23373-4.png" crc="3768988109" ref="tablet>index"/>
+    <file name="u24588-4.png" crc="48295864" ref="tablet>index"/>
+    <file name="u24593-4.png" crc="4023819011" ref="tablet>index"/>
+    <file name="u23416-42.png" crc="4160996808" ref="tablet>index"/>
+    <file name="u23417-42.png" crc="61096536" ref="tablet>index"/>
+    <file name="u23418-42.png" crc="4224050103" ref="tablet>index"/>
+    <file name="u23419-42.png" crc="4260649683" ref="tablet>index"/>
+    <file name="u23420-42.png" crc="3896406629" ref="tablet>index"/>
+    <file name="u23421-42.png" crc="4132474461" ref="tablet>index"/>
+    <file name="pensionato-boa-sorte-crop-u231612.png" crc="4112477339" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionato-boa-sorte-conforto-crop-u231632.png" crc="23614466" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="estrutura-completa-crop-u231652.png" crc="147412937" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u23185-52.png" crc="3948719384" ref="tablet>index"/>
+    <file name="u23186-42.png" crc="125379029" ref="tablet>index"/>
+    <file name="u23422-42.png" crc="56012069" ref="tablet>index"/>
+    <file name="u23423-52.png" crc="226401325" ref="tablet>index"/>
+    <file name="u23426-42.png" crc="4042460569" ref="tablet>index"/>
+    <file name="u23190-42.png" crc="92483632" ref="tablet>index"/>
+    <file name="u23198-42.png" crc="266553606" ref="tablet>index"/>
+    <file name="u23199-42.png" crc="207183850" ref="tablet>index"/>
+    <file name="u23195-42.png" crc="3877351829" ref="tablet>index"/>
+    <file name="u23196-72.png" crc="428907119" ref="tablet>index"/>
+    <file name="u23211-42.png" crc="4261159148" ref="tablet>index"/>
+    <file name="u23216-42.png" crc="4076036731" ref="tablet>index"/>
+    <file name="u23204-42.png" crc="3940843174" ref="tablet>index"/>
+    <file name="u23205-42.png" crc="4129649016" ref="tablet>index"/>
+    <file name="u23223-42.png" crc="4189202517" ref="tablet>index"/>
+    <file name="u23231-42.png" crc="4199225250" ref="tablet>index"/>
+    <file name="u23210-42.png" crc="253466314" ref="tablet>index"/>
+    <file name="u23217-42.png" crc="468723354" ref="tablet>index"/>
+    <file name="u23222-42.png" crc="133349265" ref="tablet>index"/>
+    <file name="u23232-42.png" crc="3914889866" ref="tablet>index"/>
+    <file name="u23245-42.png" crc="3830388565" ref="tablet>index"/>
+    <file name="whatsapp image 2021-05-10 at 191542 (5).jpg" crc="3790100634" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 192026 (3)-crop-u271122.jpg" crc="334118879" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 192026-crop-u271492.jpg" crc="4065130722" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u23353-42.png" crc="93556287" ref="tablet>index"/>
+    <file name="u23358-42.png" crc="128419692" ref="tablet>index"/>
+    <file name="u23371-42.png" crc="3777641793" ref="tablet>index"/>
+    <file name="u23372-112.png" crc="407583045" ref="tablet>index"/>
+    <file name="u23373-42.png" crc="460975122" ref="tablet>index"/>
+    <file name="u24588-42.png" crc="3892835269" ref="tablet>index"/>
+    <file name="u24593-42.png" crc="24540603" ref="tablet>index"/>
+    <file name="u7211-4.png" crc="4074458036" ref="index"/>
+    <file name="u7262-5.png" crc="490410724" ref="index"/>
+    <file name="u7280-4.png" crc="394135607" ref="index"/>
+    <file name="u7289-4.png" crc="30593339" ref="index"/>
+    <file name="u7298-4.png" crc="3790642360" ref="index"/>
+    <file name="u7307-5.png" crc="493888826" ref="index"/>
+    <file name="u527-4.png" crc="3943085756" ref="index"/>
+    <file name="estrutura-completa.png" crc="4156427472" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u711-4.png" crc="386858390" ref="index"/>
+    <file name="whatsapp image 2021-05-10 at 191719491x278.jpg" crc="4259851398" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6322-4.png" crc="447961170" ref="index"/>
+    <file name="3ba08459-75b8-46e6-b606-8128807a4056.jpg" crc="18600849" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6332-5.png" crc="4255235558" ref="index"/>
+    <file name="0f7b2a4d-14b5-42a6-8822-b6f667735d85.jpg" crc="474586100" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6327-4.png" crc="4239240688" ref="index"/>
+    <file name="u723-4.png" crc="367496361" ref="index"/>
+    <file name="u806-4.png" crc="322016079" ref="index"/>
+    <file name="u1262-6.png" crc="177670474" ref="index"/>
+    <file name="u800-4.png" crc="374782955" ref="index"/>
+    <file name="u812-4.png" crc="3865668335" ref="index"/>
+    <file name="u1259-6.png" crc="162216940" ref="index"/>
+    <file name="u1265-4.png" crc="3842557643" ref="index"/>
+    <file name="u833-4.png" crc="122032169" ref="index"/>
+    <file name="u835-4.png" crc="261738390" ref="index"/>
+    <file name="u837-4.png" crc="4074599328" ref="index"/>
+    <file name="u1268-6.png" crc="3838840879" ref="index"/>
+    <file name="u1271-4.png" crc="4060685742" ref="index"/>
+    <file name="u1274-4.png" crc="4242471628" ref="index"/>
+    <file name="u1296-4.png" crc="370237939" ref="index"/>
+    <file name="whatsapp image 2021-05-10 at 192026 (3)509x536.jpg" crc="312508027" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 192026488x536.jpg" crc="3861016547" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (6) (1).jpg" crc="3890980966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-voltar-104-u4267-3-fr.png" crc="34098396" ref="index"/>
+    <file name="icons8-avançar-104.png" crc="4203042459" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (1)75x45.jpg" crc="4135106010" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (5)60x46.jpg" crc="183293861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 192026 (3)-crop-u26371.jpg" crc="3849684183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 19154271x45.jpg" crc="342699560" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (6)-crop-u26194.jpg" crc="153759341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (9)-crop-u26253.jpg" crc="3875931343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 192026-crop-u26430.jpg" crc="162093509" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (6) (1)-crop-u26135.jpg" crc="153759341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6786-4.png" crc="368142141" ref="index"/>
+    <file name="u6761-4.png" crc="3926847349" ref="index"/>
+    <file name="pensionatoboasorte-shopping.jpg" crc="253305" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-escolas.jpg" crc="452050948" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-hospitais.jpg" crc="83720759" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-supermercados.jpg" crc="3939625663" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-terminais.jpg" crc="3925071357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-restaurantes.jpg" crc="4056491945" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5110-4.png" crc="312210070" ref="index"/>
+    <file name="u1823-4.png" crc="221086851" ref="index"/>
+    <file name="u1833.png" crc="186784996" ref="index"/>
+    <file name="u1833-ferr.png" crc="3818773115" ref="index"/>
+    <file name="u1844.png" crc="4253223112" ref="index"/>
+    <file name="u1844-r.png" crc="214328663" ref="index"/>
+    <file name="u1844-m.png" crc="240892553" ref="index"/>
+    <file name="u1844-fs.png" crc="3921249426" ref="index"/>
+    <file name="u1837.png" crc="4029786946" ref="index"/>
+    <file name="u1837-ferr.png" crc="4170641798" ref="index"/>
+    <file name="u1882.png" crc="4117050730" ref="index"/>
+    <file name="u1882-ferr.png" crc="230064426" ref="index"/>
+    <file name="u1938-4.png" crc="113168340" ref="index"/>
+    <file name="u1939-9.png" crc="4196783524" ref="index"/>
+    <file name="u6011-4.png" crc="142459915" ref="index"/>
+    <file name="icon 4.png" crc="3923017407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6071-4.png" crc="354093899" ref="index"/>
+    <file name="u6076-4.png" crc="327178502" ref="index"/>
+    <file name="u7241-4.png" crc="4024971978" ref="index"/>
+    <file name="u6085-4.png" crc="8112411" ref="index"/>
+    <file name="u7211-42.png" crc="3948606782" ref="index"/>
+    <file name="u7262-52.png" crc="3781664208" ref="index"/>
+    <file name="u7280-42.png" crc="4130410578" ref="index"/>
+    <file name="u7289-42.png" crc="4173400431" ref="index"/>
+    <file name="u7298-42.png" crc="331301551" ref="index"/>
+    <file name="u7307-52.png" crc="4139001051" ref="index"/>
+    <file name="u527-42.png" crc="316553292" ref="index"/>
+    <file name="u711-42.png" crc="4291811160" ref="index"/>
+    <file name="u6322-42.png" crc="13504368" ref="index"/>
+    <file name="u6332-52.png" crc="54366597" ref="index"/>
+    <file name="u6327-42.png" crc="175599654" ref="index"/>
+    <file name="u723-42.png" crc="367496361" ref="index"/>
+    <file name="u806-42.png" crc="322016079" ref="index"/>
+    <file name="u1262-62.png" crc="177670474" ref="index"/>
+    <file name="u800-42.png" crc="374782955" ref="index"/>
+    <file name="u812-42.png" crc="3865668335" ref="index"/>
+    <file name="u1259-62.png" crc="162216940" ref="index"/>
+    <file name="u1265-42.png" crc="3842557643" ref="index"/>
+    <file name="u835-42.png" crc="261738390" ref="index"/>
+    <file name="u1271-42.png" crc="4060685742" ref="index"/>
+    <file name="u833-42.png" crc="4122493071" ref="index"/>
+    <file name="u837-42.png" crc="4074599328" ref="index"/>
+    <file name="u1268-62.png" crc="3838840879" ref="index"/>
+    <file name="u1274-42.png" crc="4242471628" ref="index"/>
+    <file name="u1296-42.png" crc="3907551676" ref="index"/>
+    <file name="whatsapp image 2021-05-10 at 192026 (3)-crop-u263712.jpg" crc="3849684183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (6)-crop-u261942.jpg" crc="153759341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (9)-crop-u262532.jpg" crc="3875931343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 192026-crop-u264302.jpg" crc="162093509" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (6) (1)-crop-u261352.jpg" crc="153759341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6786-42.png" crc="112262963" ref="index"/>
+    <file name="u6761-42.png" crc="177717506" ref="index"/>
+    <file name="pensionatoboasorte-shopping218x218.jpg" crc="56468339" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-escolas218x218.jpg" crc="107551586" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-hospitais218x218.jpg" crc="3778428994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-supermercados218x218.jpg" crc="4090518593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-terminais218x218.jpg" crc="3956550030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-restaurantes218x218.jpg" crc="3927452169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5110-42.png" crc="4284328697" ref="index"/>
+    <file name="u1823-42.png" crc="3893123056" ref="index"/>
+    <file name="u18332.png" crc="186784996" ref="index"/>
+    <file name="u1833-ferr2.png" crc="3818773115" ref="index"/>
+    <file name="u18442.png" crc="4253223112" ref="index"/>
+    <file name="u1844-r2.png" crc="214328663" ref="index"/>
+    <file name="u1844-m2.png" crc="240892553" ref="index"/>
+    <file name="u1844-fs2.png" crc="3921249426" ref="index"/>
+    <file name="u18372.png" crc="4029786946" ref="index"/>
+    <file name="u1837-ferr2.png" crc="4170641798" ref="index"/>
+    <file name="u18822.png" crc="4117050730" ref="index"/>
+    <file name="u1882-ferr2.png" crc="230064426" ref="index"/>
+    <file name="u1938-42.png" crc="279691181" ref="index"/>
+    <file name="u1939-92.png" crc="4186306257" ref="index"/>
+    <file name="u6011-42.png" crc="96612572" ref="index"/>
+    <file name="u6071-42.png" crc="344880315" ref="index"/>
+    <file name="u6076-42.png" crc="4090601211" ref="index"/>
+    <file name="u7241-42.png" crc="3794675779" ref="index"/>
+    <file name="u6085-42.png" crc="221880969" ref="index"/>
+    <file name="u7211-43.png" crc="4233723963" ref="index"/>
+    <file name="u7262-53.png" crc="444431626" ref="index"/>
+    <file name="u7280-43.png" crc="62288139" ref="index"/>
+    <file name="u7289-43.png" crc="13734980" ref="index"/>
+    <file name="u7298-43.png" crc="3829186345" ref="index"/>
+    <file name="u7307-53.png" crc="4059714501" ref="index"/>
+    <file name="u527-43.png" crc="170984459" ref="index"/>
+    <file name="u711-43.png" crc="250274585" ref="index"/>
+    <file name="u6322-43.png" crc="4281205501" ref="index"/>
+    <file name="3ba08459-75b8-46e6-b606-8128807a4056-u6743-fr.jpg" crc="378041584" ref="index"/>
+    <file name="u6332-53.png" crc="3861832111" ref="index"/>
+    <file name="0f7b2a4d-14b5-42a6-8822-b6f667735d85-u5023-fr.jpg" crc="377349937" ref="index"/>
+    <file name="u6327-43.png" crc="4193655584" ref="index"/>
+    <file name="u723-43.png" crc="367496361" ref="index"/>
+    <file name="u806-43.png" crc="322016079" ref="index"/>
+    <file name="u1262-63.png" crc="177670474" ref="index"/>
+    <file name="u800-43.png" crc="374782955" ref="index"/>
+    <file name="u812-43.png" crc="3865668335" ref="index"/>
+    <file name="u1259-63.png" crc="162216940" ref="index"/>
+    <file name="u1265-43.png" crc="3842557643" ref="index"/>
+    <file name="u835-43.png" crc="261738390" ref="index"/>
+    <file name="u1271-43.png" crc="4060685742" ref="index"/>
+    <file name="u833-43.png" crc="122032169" ref="index"/>
+    <file name="u837-43.png" crc="4074599328" ref="index"/>
+    <file name="u1268-63.png" crc="3838840879" ref="index"/>
+    <file name="u1274-43.png" crc="4242471628" ref="index"/>
+    <file name="u1296-43.png" crc="524448158" ref="index"/>
+    <file name="whatsapp image 2021-05-10 at 192026 (3)-crop-u263713.jpg" crc="3849684183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (6)-crop-u261943.jpg" crc="153759341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (9)-crop-u262533.jpg" crc="3875931343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 192026-crop-u264303.jpg" crc="162093509" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (6) (1)-crop-u261353.jpg" crc="153759341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6786-43.png" crc="4076825547" ref="index"/>
+    <file name="u6761-43.png" crc="4161561276" ref="index"/>
+    <file name="pensionatoboasorte-shopping204x204.jpg" crc="3802428119" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-escolas204x204.jpg" crc="273757630" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-hospitais204x204.jpg" crc="219827403" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-supermercados204x204.jpg" crc="3788224550" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-terminais204x204.jpg" crc="307119590" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-restaurantes204x204.jpg" crc="405807944" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5110-43.png" crc="4079612513" ref="index"/>
+    <file name="u1823-43.png" crc="167840908" ref="index"/>
+    <file name="u18333.png" crc="186784996" ref="index"/>
+    <file name="u1833-ferr3.png" crc="3818773115" ref="index"/>
+    <file name="u18443.png" crc="4253223112" ref="index"/>
+    <file name="u1844-r3.png" crc="214328663" ref="index"/>
+    <file name="u1844-m3.png" crc="240892553" ref="index"/>
+    <file name="u1844-fs3.png" crc="3921249426" ref="index"/>
+    <file name="u18373.png" crc="4029786946" ref="index"/>
+    <file name="u1837-ferr3.png" crc="4170641798" ref="index"/>
+    <file name="u18823.png" crc="4117050730" ref="index"/>
+    <file name="u1882-ferr3.png" crc="230064426" ref="index"/>
+    <file name="u1938-43.png" crc="3831704433" ref="index"/>
+    <file name="u1939-93.png" crc="4282824759" ref="index"/>
+    <file name="u6011-43.png" crc="486191961" ref="index"/>
+    <file name="u6071-43.png" crc="4293628211" ref="index"/>
+    <file name="u6076-43.png" crc="3827881328" ref="index"/>
+    <file name="u7241-43.png" crc="76097052" ref="index"/>
+    <file name="u6085-43.png" crc="3778270845" ref="index"/>
+    <file name="estrutura-completa1024x595.png" crc="3782608981" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u527-44.png" crc="327837595" ref="index"/>
+    <file name="u711-44.png" crc="3786454195" ref="index"/>
+    <file name="u6322-44.png" crc="315273237" ref="index"/>
+    <file name="u6332-54.png" crc="4288670904" ref="index"/>
+    <file name="u6327-44.png" crc="288392288" ref="index"/>
+    <file name="u723-44.png" crc="367496361" ref="index"/>
+    <file name="u806-44.png" crc="322016079" ref="index"/>
+    <file name="u1262-64.png" crc="177670474" ref="index"/>
+    <file name="u800-44.png" crc="374782955" ref="index"/>
+    <file name="u812-44.png" crc="3865668335" ref="index"/>
+    <file name="u1259-64.png" crc="162216940" ref="index"/>
+    <file name="u1265-44.png" crc="3842557643" ref="index"/>
+    <file name="u835-44.png" crc="261738390" ref="index"/>
+    <file name="u1271-44.png" crc="4060685742" ref="index"/>
+    <file name="u833-44.png" crc="122032169" ref="index"/>
+    <file name="u837-44.png" crc="4074599328" ref="index"/>
+    <file name="u1268-64.png" crc="3838840879" ref="index"/>
+    <file name="u1274-44.png" crc="4242471628" ref="index"/>
+    <file name="u1296-44.png" crc="3868363582" ref="index"/>
+    <file name="whatsapp image 2021-05-10 at 192026 (3)-crop-u263714.jpg" crc="3849684183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (6)-crop-u261944.jpg" crc="153759341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (9)-crop-u262534.jpg" crc="3875931343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 192026-crop-u264304.jpg" crc="162093509" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-05-10 at 191542 (6) (1)-crop-u261354.jpg" crc="153759341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6786-44.png" crc="4076825547" ref="index"/>
+    <file name="u6761-44.png" crc="3892785913" ref="index"/>
+    <file name="pensionatoboasorte-shopping163x163.jpg" crc="4259544219" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-escolas163x163.jpg" crc="4133098485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-hospitais163x163.jpg" crc="270713002" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-supermercados163x163.jpg" crc="3935689384" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-terminais163x163.jpg" crc="4221602730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pensionatoboasorte-restaurantes163x163.jpg" crc="4271390141" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5110-44.png" crc="488768682" ref="index"/>
+    <file name="u1823-44.png" crc="185664329" ref="index"/>
+    <file name="u18334.png" crc="186784996" ref="index"/>
+    <file name="u1833-ferr4.png" crc="3818773115" ref="index"/>
+    <file name="u18444.png" crc="4253223112" ref="index"/>
+    <file name="u1844-r4.png" crc="214328663" ref="index"/>
+    <file name="u1844-m4.png" crc="240892553" ref="index"/>
+    <file name="u1844-fs4.png" crc="3921249426" ref="index"/>
+    <file name="u18374.png" crc="4029786946" ref="index"/>
+    <file name="u1837-ferr4.png" crc="4170641798" ref="index"/>
+    <file name="u18824.png" crc="4117050730" ref="index"/>
+    <file name="u1882-ferr4.png" crc="230064426" ref="index"/>
+    <file name="u1938-44.png" crc="225427350" ref="index"/>
+    <file name="u1939-94.png" crc="246677699" ref="index"/>
+    <file name="u6011-44.png" crc="4154757592" ref="index"/>
+    <file name="u6071-44.png" crc="4101091673" ref="index"/>
+    <file name="u6076-44.png" crc="3990372839" ref="index"/>
+    <file name="u7241-44.png" crc="3825410858" ref="index"/>
+    <file name="u6085-44.png" crc="508121606" ref="index"/>
+    <file name="u7211-44.png" crc="45160730" ref="index"/>
+    <file name="u7262-54.png" crc="427252109" ref="index"/>
+    <file name="u7280-44.png" crc="359932272" ref="index"/>
+    <file name="u7289-44.png" crc="483787610" ref="index"/>
+    <file name="u7298-44.png" crc="4046623687" ref="index"/>
+    <file name="u7307-54.png" crc="4150304073" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4150950616" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="13595813" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4250853987" seo="true" mt="1623182556266" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3773547946" ref="phone>index"/>
+      <file name="nomq_index.css" crc="4022525150" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="474819217" seo="true" mt="1623182612113" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="289176014" seo="true" mt="1623181380954" redirect="true"/>
+</manifest>
